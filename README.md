@@ -19,7 +19,7 @@ This project is entirely for research purposes only, and was not made for any so
 * Upload/execute files on a client's computer.
 * Force a client's computer to open a link or website.
 * Adds itself to the list of executables to be started up upon boot.
-* Cross-compatible with three major Operating Ssystems (Linux, Mac, Windows).
+* Cross-compatible with three major Operating Systems (Linux, Mac, Windows).
 * Contains an utility that uses a Java exploit to read/write directly from Windows registry.
 * JVM behind the bot is persistent and un-closable due to an alternative 'loader' which re-runs the bot upon process termination.
 
