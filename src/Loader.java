@@ -11,7 +11,7 @@ import java.io.OutputStream;
 
 /**
  *
- * @author Kenta IWasaki
+ * @author Kenta Iwasaki
  */
 public class Loader {
     public static Loader instance;
